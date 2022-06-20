@@ -2,5 +2,5 @@
   "Freie_Plaetze" : 0,
   "Erzieherin" : true,
   "Hauswirtschafterin" : true,
-  "Reinigungskraft" : true,
+  "Reinigungskraft" : false,
 }
