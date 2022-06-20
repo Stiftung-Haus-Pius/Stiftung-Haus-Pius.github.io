@@ -1,6 +1,6 @@
 {
   "Freie_Plaetze" : 0,
-  "Erzieherin" : false,
-  "Hauswirtschaftlerin" : false,
+  "Erzieherin" : true,
+  "Hauswirtschaftlerin" : true,
   "Reinigungskraft" : false
 }
