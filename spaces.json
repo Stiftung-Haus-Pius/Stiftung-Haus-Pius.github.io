@@ -1,6 +1,6 @@
 {
-  "Freie_Plaetze" : 2,
-  "Erzieherin" : true,
+  "Freie_Plaetze" : 0,
+  "Erzieherin" : false,
   "Hauswirtschafterin" : true,
   "Reinigungskraft" : false,
   "Bundesfreiwillige" : true,
